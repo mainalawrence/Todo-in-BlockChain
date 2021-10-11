@@ -1,1 +1,2 @@
-"# Todo-in-BlockChain" 
+A simple to do app with solidity
+
